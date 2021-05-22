@@ -54,7 +54,7 @@ class ArtplayColors {
   static const X11_LAVENDER_BLUSH = Color(0xAAFFF0F5);
   static const X11_MISTYROSE = Color(0xAAFFE4E1);
   static const X11_MISTY_ROSE = Color(0xAAFFE4E1);
-  static const X11_WHITE = Color(0xAAFFFFFF);
+  static const X11_WHITE = Color(0xFFFFFFFF);
   static const X11_BLACK = Color(0xAA000000);
   static const X11_DARKSLATEGRAY = Color(0xAA2F4F4F);
   static const X11_DARK_SLATE_GRAY = Color(0xAA2F4F4F);
