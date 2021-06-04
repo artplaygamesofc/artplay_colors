@@ -12,8 +12,9 @@
 ///
 import 'dart:ui';
 
+
 class ArtplayColors {
-  ArtplayColors._();
+  const ArtplayColors._();
 
   static const X11_SNOW = Color(0xAAFFFAFA);
   static const X11_GHOSTWHITE = Color(0xAAF8F8FF);
