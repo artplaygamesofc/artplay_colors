@@ -12,7 +12,6 @@
 ///
 import 'dart:ui';
 
-
 class ArtplayColors {
   const ArtplayColors._();
 
@@ -578,6 +577,8 @@ class ArtplayColors {
   static const X11_KHAKI_3 = Color(0xAACDC673);
   static const X11_KHAKI4 = Color(0xAA8B864E);
   static const X11_KHAKI_4 = Color(0xAA8B864E);
+  static const X11_KHAKI5 = Color(0xFFFFE0B2);
+  static const X11_KHAKI_5 = Color(0xFFFFE0B2);
   static const X11_LIGHTGOLDENROD1 = Color(0xAAFFEC8B);
   static const X11_LIGHT_GOLDENROD_1 = Color(0xAAFFEC8B);
   static const X11_LIGHTGOLDENROD2 = Color(0xAAEEDC82);
@@ -722,6 +723,8 @@ class ArtplayColors {
   static const X11_ORANGE_3 = Color(0xAACD8500);
   static const X11_ORANGE4 = Color(0xAA8B5A00);
   static const X11_ORANGE_4 = Color(0xAA8B5A00);
+  static const X11_ORANGE5 = Color(0xFFFF9800);
+  static const X11_ORANGE_5 = Color(0xFFFF9800);
   static const X11_DARKORANGE1 = Color(0xAAFF7F00);
   static const X11_DARK_ORANGE_1 = Color(0xAAFF7F00);
   static const X11_DARKORANGE2 = Color(0xAAEE7600);
