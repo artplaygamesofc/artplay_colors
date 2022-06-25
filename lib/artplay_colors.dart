@@ -733,6 +733,8 @@ class ArtplayColors {
   static const X11_DARK_ORANGE_3 = Color(0xAACD6600);
   static const X11_DARKORANGE4 = Color(0xAA8B4500);
   static const X11_DARK_ORANGE_4 = Color(0xAA8B4500);
+  static const X11_DARKORANGE5 = Color(0xFFFFB8C00);
+  static const X11_DARK_ORANGE_5 = Color(0xFFFFB8C00);
   static const X11_CORAL1 = Color(0xAAFF7256);
   static const X11_CORAL_1 = Color(0xAAFF7256);
   static const X11_CORAL2 = Color(0xAAEE6A50);
